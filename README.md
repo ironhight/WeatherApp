@@ -6,5 +6,5 @@ Application display weather parameters when users enter the address in a termina
 
 ## How to run:
 
-1. Download project at
+1. Download project at: https://github.com/ironhight/WeatherApp
 2. Run in terminal: yarn start "address"
